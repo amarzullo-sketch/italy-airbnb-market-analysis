@@ -4,6 +4,12 @@
 
 [View the Tableau Public Dashboard](https://public.tableau.com/app/profile/alessandro.marzullo/viz/Book1_17804449616540/Story1)
 
+## Results Summary
+
+- Florence had the highest average nightly price.
+- Milan showed strong estimated revenue potential in several neighborhoods.
+- Rome had strong guest ratings but higher competition in some areas
+
 ## Project Overview
 
 This project analyzes Airbnb market opportunity across three major Italian cities: **Rome, Florence, and Milan**. The goal was to compare city-level performance and identify neighborhoods that may offer stronger short-term rental potential based on pricing, estimated revenue, guest activity, listing competition, and guest satisfaction.
