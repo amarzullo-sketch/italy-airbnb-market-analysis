@@ -160,7 +160,6 @@ It includes:
 * Recent reviews by city
 * Average guest rating by city
 
-![Executive Overview](tableau/screenshots/executive_overview.png)
 
 ### Neighborhood Opportunity
 
@@ -173,13 +172,10 @@ It includes:
 * Top neighborhoods by estimated revenue
 * Top neighborhoods by demand
 
-![Neighborhood Opportunity](tableau/screenshots/neighborhood_opportunity.png)
 
 ### Market Map
 
 The Market Map shows individual Airbnb listings by location. It allows filtering by city, room type, price, and neighborhood.
-
-![Market Map](tableau/screenshots/market_map.png)
 
 ## Key Findings
 
