@@ -2,7 +2,7 @@
 
 ## Live Dashboard
 
-[View the Tableau Public Dashboard](https://public.tableau.com/app/profile/alessandro.marzullo/viz/Book1_17804449616540/Story1)
+[View the Tableau Public Dashboard](https://public.tableau.com/app/profile/alessandro.marzullo/viz/ItalyAirbnbMarketInvestmentAnalysis/ItalyAirbnbMarketInvestmentAnalysis)
 
 ## Results Summary
 
