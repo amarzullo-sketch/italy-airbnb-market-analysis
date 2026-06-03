@@ -225,8 +225,7 @@ italy-airbnb-market-analysis/
 │
 ├── tableau/
 │   └── italy_airbnb_market_analysis.twbx
-│
-└── visuals/
+
 ```
 
 ## Files Included
@@ -246,10 +245,6 @@ SQL queries written to explore city and neighborhood performance.
 ### `tableau/`
 
 Folder containing the Tableau workbook.
-
-### `visuals/`
-
-Folder for project images, screenshots, or exported visual assets.
 
 ## How to Run the Project
 
