@@ -1,0 +1,7 @@
+data/raw/
+data/extracted/
+*.hyper
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.tmp
