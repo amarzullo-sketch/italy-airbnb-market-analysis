@@ -9,6 +9,7 @@
 - Florence had the highest average nightly price.
 - Milan showed strong estimated revenue potential in several neighborhoods.
 - Rome had strong guest ratings but higher competition in some areas
+- Neighborhood-level analysis provided more useful investment insight than city-level averages alone.
 
 ## Project Overview
 
@@ -69,6 +70,7 @@ The project focuses on the following metrics:
 
 * **Market Opportunity Score**
   A custom score combining revenue potential, demand, rating strength, pricing, and competition indicators.
+  - The market opportunity score weights pricing power, recent review activity, estimated annual revenue, guest rating, and listing competition to rank neighborhoods on a comparable 0–100 scale.
 
 ## Methodology
 
@@ -245,6 +247,8 @@ SQL queries written to explore city and neighborhood performance.
 ### `tableau/`
 
 Folder containing the Tableau workbook.
+
+**Note:** Raw Inside Airbnb files are not included in this repository because of file size. To rerun the cleaning script from scratch, download the Rome, Florence, and Milan detailed listing files from Inside Airbnb and place them in the expected `data/extracted/` folders.
 
 ## How to Run the Project
 
